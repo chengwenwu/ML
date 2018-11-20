@@ -1,2 +1,2 @@
-Õâ¸ö³ÌÐòÔÚlinuxºÍwin10ÖÐ¶¼¿ÉÒÔÔËÐÐ£¬ÔÚwinÖÐ±àÒëÔËÐÐÊ±½«MakefileÖÐµÄrm¸ÄÎªdel£¬²¢½«×îºómain¸ÄÎªmain.exe
-Ê¹ÓÃ6.3.0¼°¸üÐÂµÄ±àÒëÆ÷
+è¿™ä¸ªç¨‹åºåœ¨linuxå’Œwin10ä¸­éƒ½å¯ä»¥è¿è¡Œï¼Œåœ¨winä¸­ç¼–è¯‘è¿è¡Œæ—¶å°†Makefileä¸­çš„rmæ”¹ä¸ºdelï¼Œå¹¶å°†æœ€åŽmainæ”¹ä¸ºmain.exe
+ä½¿ç”¨g++6.3.0åŠæ›´æ–°çš„ç¼–è¯‘å™¨
