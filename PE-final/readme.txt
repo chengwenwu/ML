@@ -1,3 +1,3 @@
-ÊµÑé±¨¸æÁ´½Ó£ºhttps://blog.csdn.net/C2681595858/article/details/84191828
+å®éªŒæŠ¥å‘Šé“¾æ¥ï¼šhttps://blog.csdn.net/C2681595858/article/details/84191828
 
-Õâ¸ö³ÌĞòÔÚlinux18.ºÍwin10ÖĞ¶¼¿ÉÒÔÔËĞĞ£¬ÔÚwinÖĞÔËĞĞÊ±ĞŞ¸ÄMakefileÖĞrmÃüÁîÎªdelÃüÁî
+è¿™ä¸ªç¨‹åºåœ¨linux18.å’Œwin10ä¸­éƒ½å¯ä»¥è¿è¡Œï¼Œåœ¨winä¸­è¿è¡Œæ—¶ä¿®æ”¹Makefileä¸­rmå‘½ä»¤ä¸ºdelå‘½ä»¤,mainä¸ºmain.exe,åˆ‡ä¸”éœ€è¦g++6.3.0åŠæ›´æ–°ç‰ˆæœ¬
