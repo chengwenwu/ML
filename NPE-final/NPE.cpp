@@ -116,8 +116,8 @@ float* NPE::knnProbability(string vec_str_in, int k)
 			cout << "Vector Length Error from float NPE::knnProbability(string vec_str_in, int k)\n";
 			system("pause");
 		}
-		cout << V << endl;
-		knn[counter0] = k / this->sampleSize / V;
+		//cout << V << endl;
+		knn[counter0] = (float)k / this->sampleSize / V;
 	}
 	delete []dis;
 	return knn;

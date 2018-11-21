@@ -22,8 +22,8 @@ int main()
 	float *knn = npe.knnProbability("[-0.41,0.82,0.88]", 1);
 	cout << "[-0.41,0.82,0.88] knn Probability in every class is " << knn[0] <<" "<< knn[1] << " " << knn[2] << " " << endl;
 	delete[]knn;
-	knn = npe.knnProbability("[-0.14,0.72,4.1]", 1);
-	cout << "[-0.14,0.72,4.1] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
+	knn = npe.knnProbability("[0.14,0.72,4.1]", 1);
+	cout << "[0.14,0.72,4.1] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
 	delete[]knn;
 	knn = npe.knnProbability("[-0.81,0.61,-0.38]", 1);
 	cout << "[-0.81,0.61,-0.38] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
@@ -33,8 +33,8 @@ int main()
 	knn = npe.knnProbability("[-0.41,0.82,0.88]", 3);
 	cout << "[-0.41,0.82,0.88] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
 	delete[]knn;
-	knn = npe.knnProbability("[-0.14,0.72,4.1]", 3);
-	cout << "[-0.14,0.72,4.1] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
+	knn = npe.knnProbability("[0.14,0.72,4.1]", 3);
+	cout << "[0.14,0.72,4.1] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
 	delete[]knn;
 	knn = npe.knnProbability("[-0.81,0.61,-0.38]", 3);
 	cout << "[-0.81,0.61,-0.38] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
@@ -44,8 +44,8 @@ int main()
 	knn = npe.knnProbability("[-0.41,0.82,0.88]", 5);
 	cout << "[-0.41,0.82,0.88] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
 	delete[]knn;
-	knn = npe.knnProbability("[-0.14,0.72,4.1]", 5);
-	cout << "[-0.14,0.72,4.1] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
+	knn = npe.knnProbability("[0.14,0.72,4.1]", 5);
+	cout << "[0.14,0.72,4.1] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
 	delete[]knn;
 	knn = npe.knnProbability("[-0.81,0.61,-0.38]", 5);
 	cout << "[-0.81,0.61,-0.38] knn Probability in every class is " << knn[0] << " " << knn[1] << " " << knn[2] << " " << endl;
