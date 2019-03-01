@@ -64,7 +64,10 @@ pe.setSampleFile("b.txt");
 	pe.getMean(1).printMatrix();
 	cout<<"variance :";
 	pe.getSigma(1).printMatrix();
-```<br>
+``` 
+
+<br>
+
 ④. d小题 
 
 # 三、实验结果
