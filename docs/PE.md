@@ -65,18 +65,22 @@ pe.setSampleFile("b.txt");
 	cout<<"variance :";
 	pe.getSigma(1).printMatrix();
 ```<br>
-④. d小题，<br>
+④. d小题 
 
 # 三、实验结果
+
 ## a小题结果
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181117200546966.png)
 
 ## b小题结果
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181117200704156.png)
+
 ## c小题结果
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181117200750232.png)
+
 ## d小题结果
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181117200815246.png)
+
 ## e小题
 - 上面四题，只要样本数据相同，那么他们的参数$\mu$的估计值是一样的，因为不管是哪一个，他们计算的都是各个维度上的均值，只是他们的维度不一样，其他的都一样。
 ## f小题
